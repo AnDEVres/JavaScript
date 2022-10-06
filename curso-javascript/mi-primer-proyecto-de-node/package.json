@@ -1,0 +1,11 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andres",
+  "license": "ISC"
+}
